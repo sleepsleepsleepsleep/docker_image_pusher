@@ -1,9 +1,15 @@
 #rabbitmq
-rabbitmq:3.13.3
-rabbitmq:3.13.3-management
+#rabbitmq:3.13.3
+#rabbitmq:3.13.3-management
 #bitnami/kafka:3.2.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+anapsix/alpine-java:8_server-jre_unlimited
+mysql:8.0.31
+redis:6.2.7
+minio/minio:RELEASE.2023-03-24T21-41-23Z
+elasticsearch:7.17.6
+kibana:7.17.6
