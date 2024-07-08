@@ -14,5 +14,6 @@
 #elasticsearch:7.17.6
 #kibana:7.17.6
 #openjdk:8u201-jre-alpine
-apache/rocketmq:5.2.0
-apacherocketmq/rocketmq-dashboard:latest
+#apache/rocketmq:5.2.0
+#apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:4.9.4
